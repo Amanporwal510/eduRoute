@@ -13,11 +13,6 @@ import Tooltip from '@mui/material/Tooltip';
 import MenuItem from '@mui/material/MenuItem';
 import AdbIcon from '@mui/icons-material/Adb';
 
-
-
-
-import AccountCircleIcon from '@mui/icons-material/AccountCircle';
-
 const pages = ['About Us', 'Courses', 'Blogs', 'Competition', 'Mentorship'];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 
